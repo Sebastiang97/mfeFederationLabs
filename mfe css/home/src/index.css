@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  font-size: 3rem;
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+
+.p-5 {
+  padding: 20px;
+}
+
+.bg-blue-500 {
+  background-color: aqua;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-3xl {
+  font-size: 18px;
+}
+
+.font-bold{
+  font-weight: 600;
+}
